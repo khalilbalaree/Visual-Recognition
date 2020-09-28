@@ -1,2 +1,1 @@
 # Visual-Recognition
-CMPUT328
